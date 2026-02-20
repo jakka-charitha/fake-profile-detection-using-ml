@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #fff;
+}
+
+.card {
+    border-radius: 16px;
+    background-color: #ffffff;
+    color: #000;
+}
+
+h1 {
+    font-weight: 700;
+    color: #fff;
+}
+
+.progress {
+    height: 25px;
+    border-radius: 12px;
+}
